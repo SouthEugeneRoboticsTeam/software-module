@@ -14,6 +14,9 @@ to think and solve complex problems, and can be applied to many other tasks even
 fields. Programming on SERT is a lot of fun, but will benefit you in many other aspects of your
 life as well.
 
+If you'd like to view the slides, too, click
+[here](https://drive.google.com/drive/u/0/folders/120wlrNOtpCltqBDykAKbAFr0byxQ4kBI).
+
 ## Table of Contents
 
 1. [Introduction](src/main/instructions/introduction)
