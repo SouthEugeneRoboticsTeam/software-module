@@ -1,4 +1,5 @@
 # Introduction
+
 ## Hello world
 
 Hey y'all! Welcome to SERT's programming module, designed to get you ready to program a robot
@@ -31,4 +32,4 @@ double-click on it to open it up.
 2. Look at the little green triangle next to the main function. Click on it to run the program.
 3. Try editing what is between the quotation marks. How does it affect the program?
 
-Done? Move on to `src/main/instructions/part1/VARIABLES.md`!
+Done? Move on to the [next module](../part1/1-VARIABLES.md)!

@@ -1,4 +1,5 @@
 # Part 1
+
 ## Data Types
 
 Let's talk about data types. In the previous lesson, you learned how to assign a variable. Well, 
@@ -55,4 +56,4 @@ Wasn't that neat? The console should have printed `true` for `name is String` an
 variable is a certain type. The result of using an `is` statement is `true` or `false`, making it
 a... `Boolean`!
 
-The next lesson is `src/main/instructions/part1/OPERATORS.md`.
+When you're finished, move on to the [next module](./OPERATORS.md).

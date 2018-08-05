@@ -1,4 +1,5 @@
 # Part 1
+
 ## Variables
 
 Well, now that your introduced, lets dive in to learning to code in Kotlin!
@@ -52,4 +53,4 @@ you surprised?
 Run the program again.
 5. Finally, change the `var` to `val` and try to run the program. Did it work?
 
-The next lesson is `src/main/instructions/part1/DATA_TYPES.md`.
+When you're done, go on to the [next module](./2-DATA_TYPES.md).
