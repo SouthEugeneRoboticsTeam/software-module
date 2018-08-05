@@ -1,13 +1,23 @@
-# SERT's Software Module
+# SERT Software Module
 
-This is SERT's software module, designed to teach new members of the software team how to program
-the robot with the Kotlin programming language. It's under construction as of now, but it should 
-cover everything from the very basics to using SERT's framework, Sertain, to program robots for FRC.
+Welcome to the SERT Software Module! After completing this guide, you'll have the skills necessary
+to contribute to SERT's robot code.
 
-### Getting Started
+We write our robots in Kotlin, a language created by JetBrains, the very same people to bring you
+IntelliJ! Kotlin is a simple and clean language based off of Java, and makes programming fun, easy
+and incredibly efficient. Like any programming language, it can take a while to become proficient,
+especially if this is your first time every programming. If you follow along with these modules,
+though, you'll become a robot coding master in no time.
 
-1. Click **Clone or download**, and click the clipboard icon to copy the repository's url.
-2. Open IntelliJ, click 'Checkout from version control' then 'git', paste the url in the empty text 
-field, then click clone.
-3. You're ready to start! Navigate to `src/main/instructions/introduction/HELLO_WORLD.md` for the
-introduction.
+What's more, learning to program in robotics is just the first step. Programming teaches you how
+to think and solve complex problems, and can be applied to many other tasks even outside of STEM
+fields. Programming on SERT is a lot of fun, but will benefit you in many other aspects of your
+life as well.
+
+## Table of Contents
+
+1. [Introduction](src/main/instructions/introduction)
+    - [Hello world!](src/main/instructions/introduction/1-HELLO_WORLD.md)
+2. [Part 1](src/main/instructions/part1)
+    - [Variables](src/main/instructions/part1/1-VARIABLES.md)
+    - [Data Types](src/main/instructions/part1/2-DATA_TYPES.md)
