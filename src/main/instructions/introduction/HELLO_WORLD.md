@@ -8,7 +8,7 @@ Anyway, programming can often seems daunting when you look at page full of forei
 so lets start with a really basic example - all it will do will to say "Hello, world!" to the user.
 Well, here it is in Kotlin:
 
-```
+```kotlin
 fun main(args: Array<String>) {
     println("Hello, world!")
 }
