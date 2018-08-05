@@ -9,5 +9,5 @@ cover everything from the very basics to using SERT's framework, Sertain, to pro
 1. Click **Clone or download**, and click the clipboard icon to copy the repository's url.
 2. Open IntelliJ, click 'Checkout from version control' then 'git', paste the url in the empty text 
 field, then click clone.
-3. Your ready to start! Navigate to `src/main/instructions/introduction/HELLO_WORLD.md` for the
+3. You're ready to start! Navigate to `src/main/instructions/introduction/HELLO_WORLD.md` for the
 introduction.
