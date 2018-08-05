@@ -7,7 +7,7 @@ One of the most basic concepts in programming is called a *variable*. Variables 
 programmers to store information throughout their code. Here's what declaring a variable looks
 like in Kotlin:
 
-```
+```kotlin
 var teamName = "SERT"
 ```
 
@@ -18,7 +18,7 @@ variable.
 
 Now lets look at another example:
 
-```
+```kotlin
 val teamNumber = 2521
 ```
 
@@ -32,7 +32,7 @@ Numbers do not need quotations.
 Well, if a variable declared with `var` can change, how do we change it? Simple, we would just do
 something like this:
 
-```
+```kotlin
 var willChange = "I won't be set to this for long."
 willChange = "I changed!"
 ```

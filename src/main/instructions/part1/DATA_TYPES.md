@@ -24,7 +24,7 @@ That should be enough to keep us busy, right? So lets look at how we can apply t
 programs. Here is an example of setting a variable, but rather than letting Kotlin imply the type,
 we tell it exactly what type we want it to be.
 
-```
+```kotlin
 val sertIsAwesome: Boolean = true
 ```
 
@@ -32,7 +32,7 @@ There's some new syntax here that we need to cover. Notice that after the variab
 a colon `:` followed by the type of the variable, `Boolean`. After that, we have the `=` and then
 the value like usual. Simple enough, right? Here are some more examples:
 
-```
+```kotlin
 val firstLetterOfSert: Char = 'S'
 val pi: Float = 3.14F
 val sertIsNotCool: Boolean = false
