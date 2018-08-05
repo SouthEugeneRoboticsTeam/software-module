@@ -51,3 +51,5 @@ you surprised?
 4. Next, reassign the variable to a different value, and then put it inside `println(...)` again.
 Run the program again.
 5. Finally, change the `var` to `val` and try to run the program. Did it work?
+
+The next lesson is `src/main/instructions/part1/DATA_TYPES.md`.

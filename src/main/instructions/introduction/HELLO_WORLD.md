@@ -30,3 +30,5 @@ brackets here.
 double-click on it to open it up.
 2. Look at the little green triangle next to the main function. Click on it to run the program.
 3. Try editing what is between the quotation marks. How does it affect the program?
+
+Done? Move on to `src/main/instructions/part1/VARIABLES.md`!
