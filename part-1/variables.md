@@ -1,5 +1,5 @@
 ---
-description: Introduction to variables in Kotlin
+description: Introduction to variables in Kotlin.
 ---
 
 # Variables

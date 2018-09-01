@@ -1,5 +1,5 @@
 ---
-description: Introduction to data types in Kotlin
+description: Introduction to data types in Kotlin.
 ---
 
 # Data Types
