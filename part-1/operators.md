@@ -4,38 +4,36 @@ description: Introduction to operators in Kotlin.
 
 # Operators
 
-
-
-Now that we covered variables and data types, lets get into operators. The purpose of an operator is to manipulate a value in terms of another value or itself. Operators are really not hard to understand, because you've probably come across most of these while doing math. Here are some basic operators that you can use:
+Now that we covered variables and data types, lets get into operators. The purpose of an operator is to manipulate a value in terms of another value or itself. Operators are fairly easy to understand because you've likely come across most of them in math classes. Here is a list of some basic operators that you can use.
 
 #### Arithmetic Operators
 
-These operators are binary, meaning they take two values. For instance, to use the `+` operator you would do `5 + 5`. Although mostly just for math, there are other uses for some of these too, which will be discussed later. The type of the result of preforming arithmetic operations depends on the types being operated on.
+These operators are binary, meaning they take two values. For instance, to use the `+` operator you would do `5 + 5`. Although mostly just for math, there are other uses for some of these too, which will be discussed later. The type of the result of performing arithmetic operations depends on the types being operated on.
 
-* `+` - Add two numbers. Also can merge two strings.
-* `-` - Subtract a number from another.
-* `*` - Multiply two numbers.
-* `/` - Divide a number by another.
-* `%` - Used to get the remainder of a division problem, this is the _modulus_ operator.
+* `+` - Adds two numbers. Can also combine two strings.
+* `-` - Subtracts a number from another.
+* `*` - Multiplies two numbers.
+* `/` - Divides a number by another.
+* `%` - Used to get the remainder of a division problem, this is the **modulus** operator.
 
 Here's an example of how one might use these operators.
 
 ```kotlin
-val x = "Hello " + "world" // equals "Hello world"
-val y = 11 % 2 // equals 1
-val z = 3 * 3 // equals 9
+val x = "Hello " + "world" // equals "Hello world", same as `val x = "Hello world"
+val y = 11 % 2 // equals 1, same as `val y = 1`
+val z = 3 * 3 // equals 9, same as `val z = 9`
 ```
 
 #### Comparison Operators
 
 Comparison operators are binary like arithmetic operators, but they return `Boolean` values instead of numbers; `true` if the statement is true, and `false` if it is not. They are used to compare numbers and sometimes other values.
 
-* `==` - Check if two values are equal. This works for more than just numbers.
-* `!=` - Check if two values are not equal. This also works for more than numbers.
-* `<` - Check if a number is less than another.
-* `>` - Check if a number is greater than another.
-* `<=` - Check if a number is less than or equal to another.
-* `>=` - Check if a number is greater than or equal to another.
+* `==` - Checks if two values are equal. This works for more than just numbers.
+* `!=` - Checks if two values are not equal. This also works for more than numbers.
+* `<` - Checks if a number is less than another.
+* `>` - Checks if a number is greater than another.
+* `<=` - Checks if a number is less than or equal to another.
+* `>=` - Checks if a number is greater than or equal to another.
 
 An example of comparison operators:
 
@@ -47,9 +45,9 @@ val z = "foo" != "bar" // equals true
 
 #### Logical Operators
 
-There are three very useful logical operators. They work with `Boolean` values, and return a new `Boolean`. Two are binary, but one is _unary_, meaning it only takes one value. To use a unary operator, you place the operator to the left or right of the value, depending on the operator.
+There are three very useful logical operators. They work with `Boolean` values, and return a new `Boolean`. Two are binary, but one is **unary**, meaning it only takes one value. To use a unary operator, you place the operator to the left or right of the value, depending on the operator.
 
-* `&&` - The _and_ operator. Returns `true` if the booleans on either side are both `true` and `false` otherwise.
+* `&&` - The _and_ operator. Returns `true` if the booleans on either side are both `true`, and `false` otherwise.
 * `||` - The _or_ operator. Returns `true` if either one of the booleans are `true`, and `false` if they are both `false`.
 * `!` - The _not_ operator. Returns `true` if used on `false`, and `false` if used on `true`.
 
