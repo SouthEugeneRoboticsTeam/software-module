@@ -4,7 +4,7 @@
 
 ## Introduction
 
-* [Hello, world!](introduction-1/hello-world.md)
+* [Hello, world!](introduction/hello-world.md)
 
 ## Part 1
 

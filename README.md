@@ -1,14 +1,16 @@
+---
+description: SERT's self-paced software module
+---
+
 # Software Module
 
-## Getting Started
+### Getting Started
 
-To get started with this tutorial, first clone or download the GitHub repository software-module-exercises. If you have [Git](https://git-scm.com/) installed, this is very simple.
+You should probably start by downloading the exercises project that accompanies this guide. The repository can be found [here](https://github.com/SouthEugeneRoboticsTeam/software-module-exercizes), along with instructions for how to use it.
 
-```bash
-$ git clone https://github.com/SouthEugeneRoboticsTeam/software-module-exercises.git
-```
+This guide is organized sequentially by parts, and each part has several focused lessons that each cover a specific concept. Ready to get started? Dive into the [introduction](https://sert.gitbook.io/software-module/~/edit/drafts/-LLJ_143YLVaFXak2ftl/introduction-1/hello-world)!
 
-Alternatively, just press the **Clone or download** button and then **Download ZIP**, and then extract the project files.
+### Getting Help
 
-After you have the project downloaded, you need to open it with some type of editor or _IDE \(Integrated development enviorment\)_. Although you can use any IDE, the project was created with [IntelliJ IDEA](https://www.jetbrains.com/idea/) in mind. After you set up your IDE, you should be able to edit and run the exercises on in the project.
+If you are on SERT, of course you can always talk to a member of the programming for help. Also, if you find a lesson unclear, feel free to submit an issue explaining what is unclear.
 
