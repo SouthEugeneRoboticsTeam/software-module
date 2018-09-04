@@ -39,9 +39,7 @@ Note that in any of these examples, we could have just as easily declared the va
 2. Explicitly make the variable `name` a `String`, and assign it to your name.
 3. Use `println(...)` to print it's value to the console. Run the program.
 4. After the `name` variable inside `println(...)`, type `is String`. What do you think will
-
    happen? Run the program.
-
 5. This time, put `is Boolean` after the variable, and run it again. What was the result?
 
 Wasn't that neat? The console should have printed `true` for `name is String` and `false` for `name is Boolean`. The `is` keyword, as we just observed, can be used to check whether or not a variable is a certain type. The result of using an `is` statement is `true` or `false`, making it a... `Boolean`! Every time something has a value in Kotlin, it has a data type. Remember, a data type is just a way for the language to know what a variable can and cannot be used for, so try not to think about it too much.
