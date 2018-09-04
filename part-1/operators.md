@@ -66,14 +66,9 @@ So much info! We need an exercise! Quick!
 1. Open up `src/main/kotlin/part1/Operators.kt`.
 2. Declare two variables containing numbers. They can be whatever you want.
 3. Use `println(...)` to log some operation between these numbers to the console. Try experimenting
-
    with different numbers and different operators.
-
 4. Now, mix them up. Use comparison operators to get two `Boolean` values from your numbers, and
-
    then a logical operator to operate on the booleans.
-
 5. Finally, try using `+` on two `String` values, and print the result to the console.
 
-Now, so far we really only know enough to make programs that follow a single course of action no matter what. Now, if that's all that programming could accomplish, we may as well just make a video instead. However, there is another concept in programming called _control flow_ that allows us to make decisions, and this is what we will begin with in **part 2**. Stay tuned!
-
+Now, so far we really only know enough to make programs that follow a single course of action no matter what. Now, if that's all that programming could accomplish, we may as well just make a video instead. However, there is another concept in programming called **control flow** that allows us to make decisions, and this is what we will begin with in **part 2**. Stay tuned!
