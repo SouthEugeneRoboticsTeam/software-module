@@ -1,7 +1,3 @@
----
-description: Introduction to programming and the Kotlin language.
----
-
 # Hello, world!
 
 Welcome to SERT's programming module, designed to get you ready to program a robot with Kotlin. Kotlin is the programming language that SERT uses program it's robots. While it isn't the most widely used language, its sister language, Java, is potentially the most well-known programming language in existence. 

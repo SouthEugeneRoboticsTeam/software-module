@@ -6,7 +6,7 @@ description: Introduction to operators in Kotlin.
 
 Now that we covered variables and data types, lets get into operators. The purpose of an operator is to manipulate a value in terms of another value or itself. Operators are fairly easy to understand because you've likely come across most of them in math classes. Here is a list of some basic operators that you can use.
 
-#### Arithmetic Operators
+### Arithmetic Operators
 
 These operators are binary, meaning they take two values. For instance, to use the `+` operator you would do `5 + 5`. Although mostly just for math, there are other uses for some of these too, which will be discussed later. The type of the result of performing arithmetic operations depends on the types being operated on.
 
@@ -24,7 +24,7 @@ val y = 11 % 2 // equals 1, same as `val y = 1`
 val z = 3 * 3 // equals 9, same as `val z = 9`
 ```
 
-#### Comparison Operators
+### Comparison Operators
 
 Comparison operators are binary like arithmetic operators, but they return `Boolean` values instead of numbers; `true` if the statement is true, and `false` if it is not. They are used to compare numbers and sometimes other values.
 
@@ -43,7 +43,7 @@ val y = 4 < 2 // equals false
 val z = "foo" != "bar" // equals true
 ```
 
-#### Logical Operators
+### Logical Operators
 
 There are three very useful logical operators. They work with `Boolean` values, and return a new `Boolean`. Two are binary, but one is **unary**, meaning it only takes one value. To use a unary operator, you place the operator to the left or right of the value, depending on the operator.
 
@@ -59,16 +59,21 @@ val y = true || false // equals true
 val z = !false // equals true
 ```
 
-### Your Turn
+## Your Turn
 
 So much info! We need an exercise! Quick!
 
 1. Open up `src/main/kotlin/part1/Operators.kt`.
 2. Declare two variables containing numbers. They can be whatever you want.
 3. Use `println(...)` to log some operation between these numbers to the console. Try experimenting
+
    with different numbers and different operators.
+
 4. Now, mix them up. Use comparison operators to get two `Boolean` values from your numbers, and
+
    then a logical operator to operate on the booleans.
+
 5. Finally, try using `+` on two `String` values, and print the result to the console.
 
 Now, so far we really only know enough to make programs that follow a single course of action no matter what. Now, if that's all that programming could accomplish, we may as well just make a video instead. However, there is another concept in programming called **control flow** that allows us to make decisions, and this is what we will begin with in **part 2**. Stay tuned!
+

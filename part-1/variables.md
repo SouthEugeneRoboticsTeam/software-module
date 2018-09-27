@@ -1,7 +1,3 @@
----
-description: Introduction to variables in Kotlin.
----
-
 # Variables
 
 Let's dive in further.

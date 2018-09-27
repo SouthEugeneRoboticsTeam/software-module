@@ -12,3 +12,7 @@
 * [Data Types](part-1/data-types.md)
 * [Operators](part-1/operators.md)
 
+## Part 2
+
+* [Control Flow](part-2/control-flow.md)
+
